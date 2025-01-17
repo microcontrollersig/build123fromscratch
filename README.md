@@ -65,4 +65,20 @@ Open file and click play icon to run.
 
 # Troubleshooting
 
+Always check Build123d install requirements, particularly python version and dependencies
+
+For version 0.8
+
+https://github.com/gumyr/build123d/blob/v0.8.0/pyproject.toml
+
+
+
+Build123d is under constant development and has not yet reached 1.0 milestone. This read me was written at the time that most recent stable version is 0.8 .
+
+This has implications such as https://github.com/gumyr/build123d/issues/866
+
+Which at the time recommended  restricting the version of one of the Build123d python dependencies. 
+
+
+
 
