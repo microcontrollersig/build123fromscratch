@@ -12,6 +12,12 @@ Including portable version.
 
 ## Step 2 Get files from this repository
 
+#### Method 1 : git clone 
+
+This can be done inside vscode on the Welcome screen(Help->Welcome screen->Clone Git repository... and type the url of this git repo **https://github.com/microcontrollersig/build123fromscratch**) 
+
+#### Method 2 : create project folder from scratch
+
 Create a empty folder for your build123d project. Then grab the following files from this repo and place it your folder.
 
 - **helloworld.py**
@@ -27,8 +33,6 @@ code .
 
 inside your folder.
 
-Alternatively, you can git clone this repo.
-This can be done inside vscode on the Welcome screen(Help->Welcome screen->Clone Git repository... and type the url of this git repo **https://github.com/microcontrollersig/build123fromscratch**) 
 
 ## Step 3 Install VSCode extensions
 
