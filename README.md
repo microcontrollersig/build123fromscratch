@@ -61,7 +61,7 @@ You know when OCP CAD Viewer works,  the logo is visible.
 ![recommended extensions](https://raw.githubusercontent.com/microcontrollersig/workshop/master/images/build123d-3.jpg)
 
 For me, the logo didn't appear the first time.
-I close the preview window. Then reopened, then it showed.
+I closed the preview window. Then clicked the option again as indicated in the diagram above, and it worked.
 
 ## Step 6 run helloworld.py
 
