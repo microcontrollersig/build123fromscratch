@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "build123dfromscratch"
+version = "0.0.1"
 requires-python = ">=3.10"
 dependencies = [
     "build123d",
