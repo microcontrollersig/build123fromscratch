@@ -58,3 +58,11 @@ You know when OCP CAD Viewer works,  the logo is visible.
 
 For me, the logo didn't appear the first time.
 I close the preview window. Then reopened, then it showed.
+
+## Step 6 run helloworld.py
+
+Open file and click play icon to run.
+
+# Troubleshooting
+
+
