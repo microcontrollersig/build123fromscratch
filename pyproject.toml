@@ -7,6 +7,7 @@ name = "build123dfromscratch"
 version = "0.0.1"
 requires-python = ">=3.10"
 dependencies = [
+    "cadquery-ocp<7.8",
     "build123d",
     "ocp-vscode"
 ]
